@@ -8,4 +8,6 @@ First, code need you to input your target calories, tolerance, and the number of
 Next, you run all cells of `calcal.ipynb`
 
 A few seconds later, you'll receive menus whose total calories match your target, as shown below.
+
+
 ![image](https://github.com/user-attachments/assets/2bd1e4f4-9a86-42d2-94bf-2a9a1195bece)
